@@ -1,6 +1,4 @@
-Quick Install
-
-POC BY KS_KAREM7
+Quick Install POC BY KS_KAREM7
 ============
 
 This is the quick install guide for GeoNode.
